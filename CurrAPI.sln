@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrAPI", "CurrAPI\CurrAPI.csproj", "{E1B32811-982D-4E27-A03C-B2214A3B312F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1B32811-982D-4E27-A03C-B2214A3B312F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B32811-982D-4E27-A03C-B2214A3B312F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B32811-982D-4E27-A03C-B2214A3B312F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B32811-982D-4E27-A03C-B2214A3B312F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1FFB02D-042B-475D-B338-E826B959D0E6}
+	EndGlobalSection
+EndGlobal
